@@ -29,7 +29,7 @@ Description - Here is the form, where the User will enter all information, such 
 	<table style="width: 40%; border-collapse: collapse;">
 	
 		<!-- Required to enter User ID with 5 to 12 characters -->
-		<tr style="margin-top: 20px;">
+		<tr>
 			<td>User ID:</td>
 			<td><input type="text" name="user_id" pattern=".{5,12}" required /></td>
 			
@@ -44,7 +44,7 @@ Description - Here is the form, where the User will enter all information, such 
 		
 		
 		<!-- Required to reenter the password -->
-		<tr style="margin-top: 30px;">
+		<tr>
 			<td>ReType Password:</td>
 				<td><input type="password" name="retype_password" pattern=".{7,12}" required /></td>
 		</tr>	
