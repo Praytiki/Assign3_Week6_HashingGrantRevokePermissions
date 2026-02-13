@@ -6,6 +6,8 @@ import java.security.NoSuchAlgorithmException;
 public class Md5HashingClass {
 	
 	
+	
+	
 	/**
 	 * 
 	 * @Pratik Patel
