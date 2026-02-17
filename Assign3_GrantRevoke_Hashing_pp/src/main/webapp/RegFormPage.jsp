@@ -64,11 +64,15 @@ Description - Here is the form, where the User will enter all information, such 
 					
 		</tr>
 		
+		
+		<!-- The picture of a Captcha -->
 		<tr>
 			<td></td>
 			<td><img src="captcha.png" alt="Captcha" width="200" height="150"></td>
 		</tr>
 		
+		
+		<!-- Enter what's on the picture or captcha -->
 		<tr>
     			<td>Enter Captcha Image:</td>
    
